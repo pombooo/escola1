@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="bronx.webp" alt="Charles Oliveira">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Time</li>
+            <li class="cabecalho-lista-item">Jogadores</li>
+        </ul>
+    </header>
+       <section class="Time"> 
+        <div class="Time-div-conteudo">
+            <h2 class="Time-titulo">Sobre os brasileiros no UFC</h2>
+            <p class="Time-texto-um">é uma organização de Artes Marciais Mistas (MMA) que produz eventos ao redor de todo o mundo. Atualmente é a maior e mais popular organização de MMA no mundo, reconhecida por ter os melhores lutadores do mundo</p>
+            <p class="Time-texto-dois">Esta é uma lista dos brasileiros campeões do MMA 
+                
+            </p>
+        </div> 
+        <img class="time-imagem" src="ufc-logo-0.png" alt="UFC  ">
+     </section>
+     <section class="Lutadores">
+        <h2 class="Lutadores">Lutadores:</h2>
+        <div class="" >
+        <span></span>
+        <div class="Jogadores-div">
+            <img class="lutadores" src="poatan.jpg" alt="Foto do Poatan">
+            <h3 class="Jogadores-nome">Alex Poatan</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/bento_matheus/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="bronx.webp" alt="Foto do Charles">
+            <h3 class="Jogadores-nome">Charles do bronx</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/alex_santana_oficial/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="borracha.jpeg" alt="Foto do  borracha">
+            <h3 class="Jogadores-nome">Borrachinha</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/arriagada_luciano/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <span></span>
+         <span></span>
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="4899_anderson-silva-jpg.webp" alt="Foto do SPIDER">
+            <h3 class="Jogadores-nome">Anderson "SPIDER" Silva</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/agus_cano7/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="royce.jpg" alt="Foto do Gracie">
+            <h3 class="Jogadores-nome">Royce Gracie</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/fernandinho/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="wanderlei.jpeg" alt="Foto do cachorro louco">
+            <h3 class="Jogadores-nome">Cachorro louco</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/pablofelipe92/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <span></span>
+         <span></span>
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="min.webp" alt="Foto do tauro">
+            <h3 class="Jogadores-nome">Minotauro</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/vitor_roque9/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         <div class="Jogadores-div">
+            <img class="Jogadores-imagem" src="minou.jpeg" alt="Foto do Thiago">
+            <h3 class="Jogadores-nome">Minotouro</h3>
+            <a href="https://github.com/ProfessorAlessandromartinsdelima2103/Site-escola"><img class="Jogador-icone" src="github.png" alt="icone github"></a>
+            <a href="https://www.athletico.com.br/"><img class="Jogador-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://www.instagram.com/th_heleno/"><img class="Jogador-icone" src="instagram.png" alt="icone instagram"></a>
+         </div> 
+         
+    </div>
+         
+    </section>
+    <footer class="rodape">
+        <img src="Atletico pr.png" alt="logo do Atletico">
+
+    </footer>
+
+</body>
+
+</html>
